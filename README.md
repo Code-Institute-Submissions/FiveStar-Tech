@@ -15,7 +15,7 @@
     * Features
         * Features that have been developed
         * Features that will be implemented in the future
-    * Technologies
+    * Technologies Used
     * Testing
     * Bugs
     * Deployment
