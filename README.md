@@ -39,9 +39,9 @@ The **goal** of this project is to help **users** find the right fitness program
 * As a client, I want a personal trainer who makes me feel comfortable so that I can create a varied and effective workout.
 
 ### Site Owner Goals ###
-
-
-
+* As a site owner, I want to generate new leads and interest from fitness enthusiasts.
+* As a site owner, I want to encourage feedback about services offered and how they can be improved.
+* As a site owner, I want to receive contact details through use of the contact form.
 
 ### User Requirements and Expectations ###
 
