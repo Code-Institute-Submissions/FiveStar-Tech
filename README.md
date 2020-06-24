@@ -21,46 +21,46 @@
     * Deployment
     * Credit
 
-    ## UX (User Experience) ##
+## UX (User Experience) ##
 
-    ### Project Goals ###
-
-
-
-
-    ### User Goals ###
+### Project Goals ###
 
 
 
 
-    ### User Stories ###
+### User Goals ###
 
 
 
 
-    ### Site Owner Goals ###
+### User Stories ###
 
 
 
 
-    ### User Requirements and Expectations ###
-
-    **Requirements**
+### Site Owner Goals ###
 
 
 
 
-    **Expectations**
+### User Requirements and Expectations ###
+
+**Requirements**
 
 
 
 
-    ### Design Choices ###
-    ---
-
-    **Fonts**
+**Expectations**
 
 
 
 
-    **Icons**
+### Design Choices ###
+---
+
+**Fonts**
+
+
+
+
+**Icons**
