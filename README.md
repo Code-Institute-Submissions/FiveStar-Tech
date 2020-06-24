@@ -133,3 +133,7 @@
 
 
 **Special Thanks**
+
+
+
+**Site for educational purposes only!**
