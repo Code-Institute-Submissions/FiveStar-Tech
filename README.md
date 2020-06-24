@@ -22,3 +22,5 @@
     * Credit
 
     ## UX (User Experience) ##
+
+    ### Project Goals ###
