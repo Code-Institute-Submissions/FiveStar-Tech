@@ -80,7 +80,7 @@
 
 ## Features ##
 
-**Features** that have been **implemented**:
+**Features** that have been **developed**:
 
 
 
