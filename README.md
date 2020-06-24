@@ -57,3 +57,5 @@
 
     ### Design Choices ###
     ---
+
+    **Fonts**
