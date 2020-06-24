@@ -79,3 +79,5 @@
 
 
 ## Features ##
+
+**Features** that have been **implemented**:
