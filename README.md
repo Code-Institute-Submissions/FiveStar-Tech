@@ -72,7 +72,32 @@ Icons used where provided by Font Awesome, used in moderation and are self-expla
 
 **Colours**
 
+The main colours used;
+* for **H2** section headers: **#484541**;
+* for **H3** section sub-headers: **#CD5C5C**;
+* for **H4**, **H5** sub-titles and card titles: **#343A40**;
+* for header and navigation backgrounds: **rgba(52,58,64,0.9)**;
+* for footer background: **#343A40**;
+* for header, navigation and footer text: **#FFFFFF**;
+* for body and section backgrounds: **#FFFFFF**;
+* for body text: **#494949**;
 
+
+
+The parallax colours used;
+* for some backgrounds: **rgba(248, 6, 6, 0.68)**;
+* for some backgrounds: **rgba(0, 0, 0, 0.25)**;
+* for horizontal rule: **#E3C44C**;
+* for all text: **#F4FAFF**;
+
+
+
+The card and form colours used;
+* for card and form backgrounds: **#D4DADF**;
+* for card titles and form-control backgrounds: **#343A40**;
+* for card subtitle: **#035D18**;
+* for form-control input text: **#CDCDCD**;
+* for labels and card text: **#494949**;
 
 
 ## Wireframing ##
