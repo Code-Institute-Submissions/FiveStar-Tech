@@ -40,18 +40,19 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 * As a user, I want a trainer who can offer a varied and effective workout.
 * As a user, I need to locate a trainer who is accessible to my current location.
 
-
 ### Site Owner Goals ###
-* As a site owner, I want to generate new leads and interest from fitness enthusiasts.
-* As a site owner, I want to encourage feedback about services offered and how they can be improved.
-* As a site owner, I want to receive contact details through use of the contact form.
+* As a site owner, I want to generate new leads and interest from fitness enthusiasts.
+* As a site owner, I want to make the booking process self-explanatory.
+* As a site owner, I want to encourage feedback about services offered and how they can be improved.
+* As a site owner, I want to receive communication through the contact form.
 
 ### User Requirements and Expectations ###
 
 **Requirements**
-
-
-
+* Browse the website using the navigation menu.
+* Locate information under titled sections
+* Visually appealing content with a mixture of text, images and subtle effects
+* Working contact forms with options
 
 **Expectations**
 
