@@ -198,3 +198,18 @@ h6 {
 	background-color: rgba(0, 0, 0, 0.25);
     padding: 8px;
 }
+
+/* ------------------------------- Main Content */
+
+.content__container {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    min-height: 12%;
+    z-index: 2;
+    background: white;
+}
+
+.section__container {
+    padding: 30px 15px;
+}
