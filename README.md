@@ -24,7 +24,7 @@
 ## UX (User Experience) ##
 
 ### Project Goals ###
-The **goal** of this project is to help **users** find the right fitness program for their needs. The project is aimed towards fitness enthusiasts and individuals looking to improve their health and wellbeing.
+The **goal** of this project is to highlight the trainer’s knowledge and expertise, display a range of pre-planned programs and offer a tailored service with the use of the contact form. This project is aimed towards fitness enthusiasts and individuals looking to improve their overall health and wellbeing in an appealing way.
 
 ### User Goals ###
 * **Find information** about the current fitness programs on offer
