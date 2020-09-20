@@ -271,3 +271,17 @@ h6 {
     padding-left: 0px;
     padding-right: 0px;
 }
+
+.qual-bg {
+    padding: 5px;
+    border-radius: 4px;
+    background-color: #d4dadf;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.qual__item {
+    width: 4rem;
+    height: 4rem;
+    padding: 5px;
+    border-radius: .25rem;
+}
