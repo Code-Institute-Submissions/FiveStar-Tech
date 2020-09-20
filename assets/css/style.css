@@ -106,6 +106,12 @@ h6 {
     background-color: rgb(248, 6, 6);
 }
 
+.block__hr__modal {
+    margin: 0 auto;
+    width: 95%;
+    height: 0.1em;
+}
+
 /* ------------------------------- Buttons / Badges */
 
 .btn__cta {
@@ -451,7 +457,7 @@ h6 {
 }
 
 .booking-form__check__label {
-    /* font-size: 0.88rem; */
+    font-size: 0.8rem;
     margin-left: 2.2rem;
 }
 
