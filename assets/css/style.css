@@ -375,3 +375,13 @@ h6 {
     font-weight: 400;
     margin-top: 10px
 }
+
+/* ------------------------------- Modal */
+
+.booking-modal__dialog {
+    margin: 10.75rem auto;
+}
+
+.booking-modal__body {
+    background: #d4dadf;
+}
