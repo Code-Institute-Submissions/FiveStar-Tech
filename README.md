@@ -82,7 +82,7 @@ The main colours used;
 * for body and section backgrounds: **#FFFFFF**;
 * for body text: **#494949**;
 
-![Main Palette](/assets/main-palette.png)
+![Main Palette](assets/main-palette.png)
 
 The parallax colours used;
 * for some backgrounds: **rgba(248, 6, 6, 0.68)**;
@@ -90,7 +90,7 @@ The parallax colours used;
 * for horizontal rule: **#E3C44C**;
 * for all text: **#F4FAFF**;
 
-![Parallax Palette](/assets/parallax-palette.png)
+![Parallax Palette](assets/parallax-palette.png)
 
 The card and form colours used;
 * for card and form backgrounds: **#D4DADF**;
@@ -99,7 +99,7 @@ The card and form colours used;
 * for form-control input text: **#CDCDCD**;
 * for labels and card text: **#494949**;
 
-![Card & Form Palette](/assets/card-form-palette.png)
+![Card & Form Palette](assets/img/card-form-palette.png)
 
 ## Wireframing ##
 
