@@ -25,3 +25,32 @@ h6 {
 	font-weight: 700;
 	color: #484541;
 }
+
+/* ------------------------------- Menu / Anchors */
+
+.menu {
+    margin: 0;
+    padding: 7px 0;
+}
+
+.menu__bg--opaque {
+    background-color: #343a40e6;
+}
+
+.menu__item {
+    font-size: 1rem;
+    padding: 0;
+}
+
+.menu__item a {
+    width: 100%;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+
+.menu__item a:hover,
+.menu__item a:active {
+    border-bottom: 2px solid #C92222;
+}
