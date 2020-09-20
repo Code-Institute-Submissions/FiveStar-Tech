@@ -35,10 +35,11 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 * **Responsive site** accessible on Desktop, Tablet or Mobile
 
 ### User Stories ###
-* As a personal trainer, I want to improve the fitness and overall health of my clients so they feel themselves getting stronger.
-* As a client, I want to join a fitness program that is tailored to my needs and schedule.
-* As a personal trainer, I want to add photos and reviews of my training sessions to my website so that I can attract more clients.
-* As a client, I want a personal trainer who makes me feel comfortable so that I can create a varied and effective workout.
+* As a user, I need to feel comfortable with my potential trainer’s experience, personality and passion for fitness.
+* As a user, I want to find a suitable program for my needs where exercises are fun and engaging.
+* As a user, I want a trainer who can offer a varied and effective workout.
+* As a user, I need to locate a trainer who is accessible to my current location.
+
 
 ### Site Owner Goals ###
 * As a site owner, I want to generate new leads and interest from fitness enthusiasts.
