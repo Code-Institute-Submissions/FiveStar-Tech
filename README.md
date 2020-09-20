@@ -76,7 +76,7 @@ The main colours used;
 * for **H2** section headers: **#484541**;
 * for **H3** section sub-headers: **#CD5C5C**;
 * for **H4**, **H5** sub-titles and card titles: **#343A40**;
-* for header and navigation backgrounds: **rgba(52,58,64,0.9)**;
+* for header and navigation backgrounds: rgba **(52,58,64,0.9)**; hex **#343A40E6**;
 * for footer background: **#343A40**;
 * for header, navigation and footer text: **#FFFFFF**;
 * for body and section backgrounds: **#FFFFFF**;
@@ -85,8 +85,8 @@ The main colours used;
 ![Main Palette](assets/img/main-palette.png)
 
 The parallax colours used;
-* for some backgrounds: **rgba(248, 6, 6, 0.68)**;
-* for some backgrounds: **rgba(0, 0, 0, 0.25)**;
+* for some backgrounds: rgba **(248, 6, 6, 0.68)**; hex **#F80606AD**;
+* for some backgrounds: rgba **(0, 0, 0, 0.25)**; hex **#00000040**;
 * for horizontal rule: **#E3C44C**;
 * for all text: **#F4FAFF**;
 
