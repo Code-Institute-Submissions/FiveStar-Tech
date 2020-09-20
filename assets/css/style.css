@@ -376,6 +376,89 @@ h6 {
     margin-top: 10px
 }
 
+/* ------------------------------- Forms */
+
+.booking-form__row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.booking-form__group {
+    margin-bottom: 0.5rem;
+}
+
+.booking-form__group--last {
+    margin-bottom: 0.3rem;
+}
+
+.booking-form__label {
+    color: inherit;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.booking-form__control {
+    font-size: 0.8rem;
+    color: #cdcdcd;
+    background-color: #343a40;
+}
+
+/* Chrome, Firefox, Opera, Safari 10.1+ */
+.booking-form__control::placeholder  {
+    color: #cdcdcd;
+    opacity: 1; /* Firefox */
+}
+
+/* Internet Explorer 10-11 */
+.booking-form__control:-ms-input-placeholder {
+    color: #cdcdcd;
+}
+
+/* Microsoft Edge */
+.booking-form__control::-ms-input-placeholder {
+    color: #cdcdcd;
+}
+
+.booking-form__control:focus {
+    color: #cdcdcd;
+    background-color: #343a40;
+}
+
+.booking-form__service {
+    padding-top: 3px;
+    /* font-size: 1.3rem; */
+    font-weight: 500;    
+    line-height: 1;
+    border: none;    
+}
+
+.booking-form__group--service {
+    padding-top: 2.9px;
+    margin-bottom: 0;
+}
+
+.booking-form__row {
+    background: #fff;
+}
+
+.booking-form__row--first {
+    padding-top: 10px;
+    border-radius: 4px 4px 0 0;
+}
+
+.booking-form__row--last {
+    border-radius: 0 0 4px 4px;
+}
+
+.booking-form__check__label {
+    /* font-size: 0.88rem; */
+    margin-left: 2.2rem;
+}
+
+.booking-form__check__input {
+    margin-left: 0.8rem;
+}
+
 /* ------------------------------- Modal */
 
 .booking-modal__dialog {
