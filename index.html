@@ -271,7 +271,105 @@
                         </button>
                     </div>
                     <div class="booking-modal__body modal-body">
-                        
+                        <form id="booking-form" action="" method="">
+                            <div class="form-row">                            
+                                <div class="form-group col-5 booking-form__group--service">
+                                    <label class="form-label" for="bookingService">Selected Service:</label>
+                                </div>
+                                <div class="form-group col-7 booking-form__group--service">
+                                    <input class="form-control-plaintext booking-form__service" type="text" name="selectedService" id="bookingService" value="" readonly>
+                                </div>
+                            </div>
+                            <hr class="block__hr block__hr__modal">
+                            <div class="text-center mb-1">
+                                <span>
+                                    <small>Please take the time to provide us with some contact information.</small>
+                                </span>
+                            </div>
+                            <div class="form-row booking-form__row booking-form__row--first">
+                                <div class="form-group col-sm-6 booking-form__group">
+                                    <label class="form-label booking-form__label" for="bookingFname">First Name:</label>
+                                    <input class="form-control form-control-sm booking-form__control" type="text" id="bookingFname" name="Firstname" placeholder="eg. John">
+                                </div>
+                                <div class="booking-form__group form-group col-sm-6">
+                                    <label class="form-label booking-form__label" for="bookingLname">Last Name:</label>
+                                    <input class="form-control form-control-sm booking-form__control" type="text" id="bookingLname" name="Lastname" placeholder="eg. Doe">
+                                </div>
+                            </div>
+                            <div class="form-row booking-form__row">    
+                                <div class="form-group col-sm-6 col-md-6 booking-form__group">
+                                    <label class="form-label booking-form__label" for="bookingEmail">Email Address:</label>
+                                    <input class="form-control form-control-sm booking-form__control" type="email" id="bookingEmail" name="Email" placeholder="your.email@address.com">
+                                </div>
+                                <div class="form-group col-sm-6 booking-form__group">
+                                    <label class="form-label booking-form__label" for="bookingAge">Age Group:</label>
+                                    <select class="form-control form-control-sm booking-form__control" name="Age Group" id="bookingAge">
+                                        <option value="Under 18">Under 18</option>
+                                        <option value="18-25">18 - 25</option>
+                                        <option value="25-35" selected >25 - 35</option>
+                                        <option value="35-50">35 - 50</option>
+                                        <option value="Over 50">Over 50</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-row booking-form__row">
+                                <div class="form-group col-sm-6 col-md-6 booking-form__group">
+                                    <label class="form-label booking-form__label" for="bookingPhone">Contact Number:</label>
+                                    <input class="form-control form-control-sm booking-form__control" type="number" id="bookingPhone" name="Phone" placeholder="eg. mobile or landline no.">
+                                </div>
+                                <div class="form-group col-sm-6 col-md-6 booking-form__group">
+                                    <label class="form-label booking-form__label" for="bookingCall">Best Time to Call:</label>
+                                    <select class="form-control form-control-sm booking-form__control" name="CallTime" id="bookingCall">
+                                        <option value="Mornings">Mornings</option>
+                                        <option value="Afternoons">Afternoons</option>
+                                        <option value="Evenings" selected >Evenings</option>
+                                        <option value="Weekends">Weekends</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-row booking-form__row">
+                                <div class="form-check col-12">
+                                    <label class="form-label booking-form__label" for="">Which Of The Following Are Important To You?</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="Toxic Fat Reduction & Weight Loss" id="MultiCheck-1">
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-1">Toxic Fat Reduction & Weight Loss</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="Energy & Endurance" id="MultiCheck-2">
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-2">Energy & Endurance</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">                            
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="Building Lean Muscle Mass" id="MultiCheck-3">
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-3">Building Lean Muscle Mass</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">                            
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="Healthier Digestive System" id="MultiCheck-4">
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-4">Healthier Digestive System</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">                            
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="Healthier Digestive System" id="MultiCheck-5">
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-5">Vitality, Longevity & Positive Outlook</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">                            
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="Rid the body of Bad Carb & Sugar Cravings" id="MultiCheck-6">
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-6">Rid the body of Bad Carb & Sugar Cravings</label>
+                                </div>
+                                <div class="form-check col-12 booking-form__group">                            
+                                    <input class="form-check-input booking-form__check__input" type="checkbox" value="All of the above" id="MultiCheck-7" checked>
+                                    <label class="form-check-label booking-form__check__label" for="MultiCheck-7">All of the above</label>
+                                </div>
+                            </div>
+                            <div class="form-row booking-form__row booking-form__row--last">
+                                <div class="form-group col-12 booking-form__group--last">
+                                    <label class="form-label booking-form__label" for="Comments">Comments:</label>
+                                    <textarea class="form-control booking-form__control" id="Comments" name="Comments" placeholder="Additional Comments" rows="5"></textarea>
+                                </div>
+                            </div>                        
+                            <button class="btn btn-light mt-3 mr-2" type="reset">Reset</button>
+                            <button class="btn btn-primary mt-3" type="submit" id="modalSub">Submit Booking Request</button>
+                            <button class="btn btn-danger mt-3 float-right" type="button" data-dismiss="modal">Close</button>
+                        </form>                        
                     </div>
                     <div class="modal-footer">
                         <div class="row">
