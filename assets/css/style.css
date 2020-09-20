@@ -248,3 +248,8 @@ h6 {
     font-weight: 600;
     color: #343A40;
 }
+
+.section__text {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
