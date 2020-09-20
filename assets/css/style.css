@@ -72,6 +72,14 @@ h6 {
     border-bottom: 2px solid #C92222;
 }
 
+#home,
+#about,
+#services,
+#contact {
+    position: absolute;
+    top: -170px;
+}
+
 /* --------------------------------- HR Styles */
 
 .block__hr {
