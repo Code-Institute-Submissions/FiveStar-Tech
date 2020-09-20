@@ -231,3 +231,20 @@ h6 {
     text-transform: uppercase;
     font-size: 2rem;
 }
+
+.section__heading, .section__subheading {
+    margin: 20px 0;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.75rem;
+}
+
+.section__subheading {
+    color: #cd5c5c;
+}
+
+.section__subheading--dark {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #343A40;
+}
