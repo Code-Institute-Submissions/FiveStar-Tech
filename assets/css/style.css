@@ -71,3 +71,130 @@ h6 {
 .menu__item a:active {
     border-bottom: 2px solid #C92222;
 }
+
+/* --------------------------------- HR Styles */
+
+.block__hr {
+    width: 75px;
+    height: 0.25em;
+    margin: 1rem auto;
+    border: 0;
+    background-color: #C92222;    
+}
+
+.block__hr__gold {
+    width: 100%;
+    height: 0.125em;
+    margin: 0 auto;    
+    border: 0;   
+    background-color: rgb(227, 196, 76);
+}
+
+.block__hr__ruby {
+    width: 100%;
+    height: 0.125em;
+    margin: 0 auto;    
+    border: 0;
+    background-color: rgb(248, 6, 6);
+}
+
+/* ------------------------------- Buttons / Badges */
+
+.btn__cta {
+	margin: 15px 5px 0;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.btn__cta--splash {
+    font-size: 1em;
+    font-weight: 600;
+	margin-top: 40px;
+}
+
+/* ------------------------------- Parallax Images */
+
+.bg {
+    /* absolute center .bg within .bg__img* */
+    width: fit-content;
+    top: 28%;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    margin: 0px auto;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bg__img1 {
+    z-index: 1;
+    overflow: hidden;
+    /* The following styles are required for the "scroll-over" effect */
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    opacity: 0.70;
+    position: fixed !important;
+    background-image:url('../img/fst-bg1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg__img2, .bg__img3 {
+	position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 400px;
+}
+
+.bg__img2 {
+	background-image:url('../img/fst-bg2.jpg');
+}
+
+.bg__img3 {
+	background-image:url('../img/fst-bg3.jpg');
+}
+
+.bg__splash {
+    top: 40%;
+}
+
+.bg__splash__text, .bg__text {
+    padding: 0 1.6em;
+    line-height: 1em;    
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.85);
+    font-size: 3em;
+    font-weight: 800;
+    color: #f4faff;
+}
+
+.bg__text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.bg__text--bigger {
+    font-size: 5em;
+}
+
+.bg__text--ls {
+    letter-spacing: 3px;
+}
+
+.bg__text__border--ruby {
+	background-color: rgba(248, 6, 6, 0.68);
+    padding: 8px;
+}
+
+.bg__text__border--dark {
+	background-color: rgba(0, 0, 0, 0.25);
+    padding: 8px;
+}
