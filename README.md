@@ -103,8 +103,15 @@ The card and form colours used;
 
 ## Wireframing ##
 
+I used Balsamiq Wireframes to produce basic wireframes on various screen sizes. This helped me to arrange the overall layout and placement of elements on a single scrolling page, with anchored links and sections.
 
+View my wireframes here:
 
+* [Desktop Wireframe](wireframes/fst-desktop.png)
+* [Tablet Wireframe - Portrait](wireframes/fst-tablet-portrait.png)
+* [Tablet Wireframe - Landscape](wireframes/fst-tablet-landscape.png)
+* [Mobile Wireframe - Portrait](wireframes/fst-mobile-portrait.png)
+* [Mobile Wireframe - Landscape](wireframes/fst-mobile-landscape.png)
 
 ## Features ##
 
