@@ -68,8 +68,7 @@ I looked for strong fonts which effectively attract viewers. I picked **Roboto**
 
 **Icons**
 
-
-
+Icons used where provided by Font Awesome, used in moderation and are self-explanatory.
 
 **Colours**
 
