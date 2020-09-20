@@ -64,8 +64,7 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 
 **Fonts**
 
-
-
+I looked for strong fonts which effectively attract viewers. I picked **Roboto** for the headers and titles and **Montserrat** for general text.
 
 **Icons**
 
