@@ -26,6 +26,23 @@ h6 {
 	color: #484541;
 }
 
+/* ------------------------------- Brand / Logo */
+
+.brand {
+    padding: 0 0 0 15px;
+}
+
+.brand__img {
+	max-width:100%;
+	max-height: 125px;
+}
+
+.brand__link {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-right: 0px;
+}
+
 /* ------------------------------- Menu / Anchors */
 
 .menu {
