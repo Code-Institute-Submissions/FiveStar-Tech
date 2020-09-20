@@ -213,3 +213,13 @@ h6 {
 .section__container {
     padding: 30px 15px;
 }
+
+.section__header {
+    text-align: center !important;
+}
+
+.section__title {
+    position: relative;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
