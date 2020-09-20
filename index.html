@@ -265,15 +265,15 @@
                             <div class="form-row contact-form__row">
                                 <div class="form-group col-sm-6 contact-form__group">
                                     <label class="form-label contact-form__label" for="inputName">Name:</label>
-                                    <input class="form-control contact-form__control" type="text" id="inputName" name="Fullname" placeholder="Full Name">
+                                    <input class="form-control contact-form__control" type="text" id="inputName" name="Fullname" placeholder="Full Name" required>
                                 </div>
                                 <div class="form-group col-sm-6 col-md-6 contact-form__group">
                                     <label class="form-label contact-form__label" for="inputEmail">Email:</label>
-                                    <input class="form-control contact-form__control" type="Email" id="inputEmail" name="Email" placeholder="Email Address">
+                                    <input class="form-control contact-form__control" type="Email" id="inputEmail" name="Email" placeholder="Email Address" required>
                                 </div>
                                 <div class="form-group col-sm-6 col-md-6 contact-form__group">
                                     <label class="form-label contact-form__label" for="Gender">Gender:</label>
-                                    <select class="form-control contact-form__control" name="Gender" id="Gender">
+                                    <select class="form-control contact-form__control" name="Gender" id="Gender" required>
                                         <option value="Male" selected >Male</option>
                                         <option value="Female">Female</option>
                                         <option value="Prefer not to say">Prefer not to say</option>
@@ -281,7 +281,7 @@
                                 </div>
                                 <div class="form-group col-sm-6 col-md-6 contact-form__group">
                                     <label class="form-label contact-form__label" for="Help">How Can We Help?</label>
-                                    <select class="form-control contact-form__control" name="Help" id="Help">
+                                    <select class="form-control contact-form__control" name="Help" id="Help" required>
                                         <option value="Personal Training">Personal Training</option>
                                         <option value="Combat Coaching">Combat Coaching</option>
                                         <option value="Special Event Training">Special Event Training</option>
@@ -290,7 +290,7 @@
                                 </div>
                                 <div class="form-group col-12 contact-form__group">
                                     <label class="form-label contact-form__label" for="Message">Message:</label>
-                                    <textarea class="form-control contact-form__control" id="Message" name="your-message" placeholder="Type your message here.." rows="5"></textarea>
+                                    <textarea class="form-control contact-form__control" id="Message" name="your-message" placeholder="Type your message here.." rows="5" required></textarea>
                                 </div>
                             </div>
                             <button class="btn btn-light btn__cta mr-2" type="reset">Reset</button>        
