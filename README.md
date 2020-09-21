@@ -1,5 +1,5 @@
-# FiveStar Techniques - Personal Training #
-*subtitle*
+# FiveStar Techniques #
+*Personal Training and Specialist Combat Coaching*
 
 ## Contents ##
 * UX
@@ -181,7 +181,7 @@ Here are some bugs I encountered;
 * Modal:
     * Placed the modal code outside of the main tag for the modal overlay to work correctly.
 
-    
+
 
 ## Deployment ##
 
