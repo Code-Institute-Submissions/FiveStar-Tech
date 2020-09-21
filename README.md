@@ -158,22 +158,22 @@ View my wireframes here:
 
 ## Testing ##
 
-When testing this site I used chromium dev tools.
+When testing this site I used an online tool called [Lambdatest](https://www.lambdatest.com/) and chromium dev tools.
 
 I tested the CSS code with [CSS Validator](http://jigsaw.w3.org/css-validator/), which passed **without issue**.
 
 The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool, which gave me the following **results:**
 
-* Warning:
+* Warnings:
     * The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment
     * Attribute is unnecessary for JavaScript resources
 
-* Error:
+* Errors:
     * Required form elements set without a multiple attribute or a size attribute
     * For attribute requires and id
 
 * Fixes:
-    * shorten comment hypens to two consecutive hyphens
+    * Shorten comment hypens
     * Removed type attribute
     * Removed for attribute
     
@@ -195,7 +195,7 @@ The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool
 
 **Contact Form**
 
-* **Implementation**: The **contact form** is used to contact the site owner. I modified the form example from the **Bootstrap** site for my own **needs**. Client side form validation was **implemented** at the same time, so **users** need to populate every form field, **before** being able to **Submit** the form.
+* **Implementation**: The **contact form** is used to contact the site owner. I modified the form example from the **Bootstrap** site for my own **needs**. Client side form validation was **implemented** at the same time, so **users** need to populate every form field, **before** being able to **Submit**.
 
 * **Note**: It is not currently possible to submit the form, no feedback has been gathered yet.
 
