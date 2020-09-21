@@ -455,6 +455,19 @@ h6 {
     border-color: #f8f9fa;
 }
 
+.contact-list__badge:hover {
+    background-color: #cd5c5c;
+    border-color: #f8f9fa;
+}
+
+.contact-list__badge:hover > i {
+    color: #000;
+}
+
+.social-icons__list--item i:hover  {
+    color: #cd5c5c;
+}
+
 /* ------------------------------- Forms */
 
 #contact-form {
