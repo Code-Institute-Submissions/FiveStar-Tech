@@ -101,6 +101,13 @@ The card and form colours used;
 
 ![Card & Form Palette](assets/img/fst-palette3.png)
 
+The contact information & social icon colours used;
+* for some backgrounds: **#C92222**;
+* for some backgrounds: **#343A40**;
+* for all text: **#F8F9FA**;
+
+![Contact & Socials Palette](assets/img/fst-palette4.png)
+
 ## Wireframing ##
 
 I used Balsamiq Wireframes to produce basic wireframes on various screen sizes. This helped me to arrange the overall layout and placement of elements on a single scrolling page, with anchored links and sections.
