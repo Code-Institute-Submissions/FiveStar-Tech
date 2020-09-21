@@ -639,3 +639,69 @@ h6 {
         font-size: 3.5em;
     }
 }
+
+@media (min-width: 281px) and (max-width: 320px) {
+    #home, #about, #services, #contact {
+        position: absolute;
+        top: -110px;
+    }
+
+    .bg__splash__text {
+        font-size: 2em;
+    }
+    
+    .bg__text {
+        padding: 0;
+        font-size: 2em;
+    }
+
+    .bg__text--bigger {
+        font-size: 3.5em;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 376px) {
+    #home, #about, #services, #contact {
+        position: absolute;
+        top: -124px;
+    }
+
+    .bg__splash__text {
+        font-size: 2em;
+    }
+    
+    .bg__text {
+        padding: 0;
+        font-size: 2em;
+    }
+
+    .bg__text--bigger {
+        font-size: 3.5em;
+    }
+}
+
+@media (min-width: 377px) and (max-width: 426px) {
+    #home, #about, #services, #contact {
+        position: absolute;
+        top: -135px;
+    }
+
+    .bg__splash__text {
+        font-size: 2em;
+    }
+    
+    .bg__text {
+        font-size: 2.3em;
+    }
+
+    .bg__text--bigger {
+        font-size: 3.5em;
+    }
+}
+
+/* Tablet Devices (upto 767px and down) */
+@media (max-width: 767px) {
+    .mq_spacing {
+        margin-left: 1rem;
+    }
+}
