@@ -1,3 +1,16 @@
+// --------------------------------------------- Navbar Close Function
+
+/**
+* Code gotten from fellow student
+* byllsa
+*/
+
+$('.navbar-nav>li>a').on('click', function () {
+  $('.navbar-collapse').collapse('hide');
+});
+
+// --------------------------------------------- End-of-function
+
 // --------------------------------------------- Service Function
 
 // Set Button Variable(s)
