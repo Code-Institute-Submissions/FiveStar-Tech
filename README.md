@@ -164,9 +164,24 @@ View my wireframes here:
 
 ## Bugs ##
 
+Here are some bugs I encountered;
 
+**During development**
 
+* Fixed navigation:
+	* Added the no-gutters class to the header tag. This resolve the issue with the parallax image overflowing.
+* Navigation anchors:
+    * Added a span inside each h2 section title, then set an id for the anchors.
+* Navbar links not collapsing after click - on mobile:
+    * Trying some js for this.
+* Parallax effect:
+    * Set the correct z-index and set position to fixed.
+* Slideshow.js:
+	* The fade class for the slideshow clashed with the Modal fade class. Moved the slideshow js function to the end of functions.js script to resolve.
+* Modal:
+    * Placed the modal code outside of the main tag for the modal overlay to work correctly.
 
+    
 
 ## Deployment ##
 
