@@ -26,6 +26,33 @@ splash_btn.onclick = service_02;
 
 // --------------------------------------------- End-of-function
 
+// --------------------------------------------- Back To Top Function
+
+var top_btn = document.getElementById("top_btn");
+
+// When the user scrolls down 800 pixels from the top of the document, show the top button
+window.onscroll = function() {scrollFunction()};
+
+// Show Top Button After 800 Pixels
+function scrollFunction() {
+  if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+    top_btn.style.display = "block";
+  } else {
+    top_btn.style.display = "none";
+  }
+}
+
+// Scroll-to-Top On Click
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+// Button Event Handler
+top_btn.onclick = topFunction;
+
+// --------------------------------------------- End-of-function
+
 // --------------------------------------------- Automatic Slideshow function
 
 var slideIndex = 0;
