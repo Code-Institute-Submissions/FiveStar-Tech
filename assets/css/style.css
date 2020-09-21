@@ -422,7 +422,7 @@ h6 {
     padding: 0.5em;
     font-size: 1em;
     font-weight: 500;
-    color: #f8f9fa;
+    color: #cdcdcd;
     background-color: #343a40;;
     border-color: #f8f9fa;
 }
@@ -465,7 +465,7 @@ h6 {
 
 .contact-list__item i {
     margin-right: 0.5em;
-    color: #fff;
+    color: #f8f9fa;
 }
 
 .social-icons__list--item i {
@@ -476,11 +476,13 @@ h6 {
 .contact-list__badge:hover {
     background-color: #c92222;
     border-color: #f8f9fa;
+    color: #f8f9fa;
+    text-decoration: none;
 }
 
-.contact-list__badge:hover > i {
+/* .contact-list__badge:hover > i {
     color: #fff;
-}
+} */
 
 .social-icons__list--item i:hover  {
     color: #c92222;
