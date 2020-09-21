@@ -123,6 +123,15 @@ View my wireframes here:
 ## Features ##
 
 **Features** that have been **developed**:
+* **Responsive** design on all screen sizes and viewports
+* **Fixed Navigation**
+* Scrolling **Parallax** effect
+* Automatic **Slideshow**
+* **Collapsible / Hidden** data
+* Responsive **Modal**
+* **Contact Forms** with required options
+* Links to **Social Media**
+* **Back to Top** scroll button
 
 
 
