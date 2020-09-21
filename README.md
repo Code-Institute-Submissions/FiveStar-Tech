@@ -144,17 +144,17 @@ View my wireframes here:
 
 **Languages**
 
-* [HTML](https://en.wikipedia.org/wiki/HTML)
-* [CSS](https://en.wikipedia.org/wiki/CSS)
-* [JS](https://en.wikipedia.org/wiki/JavaScript)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JS](https://en.wikipedia.org/wiki/JavaScript)
 
 **Tools & Libraries**
 
-* [Git](https://git-scm.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
-* [Google Fonts](https://fonts.google.com/)
-* [Canva](https://www.canva.com/)
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Fonts](https://fonts.google.com/)
+* [Canva](https://www.canva.com/) used for royalty free images and graphic creation 
 
 ## Testing ##
 
