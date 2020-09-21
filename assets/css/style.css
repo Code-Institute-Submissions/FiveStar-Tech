@@ -127,7 +127,8 @@ h6 {
 }
 
 .btn__modal {
-    font-size: 0.8rem;
+    font-size: 0.8rem;    
+    margin-top: 1rem;
 }
 
 .fst-badge {
