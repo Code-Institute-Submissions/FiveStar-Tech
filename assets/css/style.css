@@ -382,6 +382,55 @@ h6 {
     margin-top: 10px
 }
 
+/* ------------------------------- Contact Section */
+
+.contact-list__bg {
+    height: 375px;
+    margin-bottom: 0;
+    position: relative;
+    opacity: 0.60;
+    background-color: #000;
+    background: url('../img/map.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+}
+
+.badge-social {
+    top: 22em;
+    position: absolute;
+    padding: 0.5em;
+    margin-left: 1em;
+    background-color: #cd5c5c;
+    border-color: #f8f9fa;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #000;
+}
+
+.social-icons__list {
+    top: 20em;
+    position: absolute;
+    margin-left: 1em;
+}
+
+.contact-list__item, .social-icons__list--item  {
+    line-height: 1.5rem;    
+    list-style: none;
+}
+
+.contact-list__item i {
+    margin-right: 0.5em;
+    color: #fff;
+}
+
+.social-icons__list--item i {
+    color: #343a40b8;;
+    border-color: #f8f9fa;
+}
+
 /* ------------------------------- Forms */
 
 #contact-form {
