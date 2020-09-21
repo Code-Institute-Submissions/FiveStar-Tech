@@ -126,6 +126,10 @@ h6 {
 	margin-top: 40px;
 }
 
+.btn__modal {
+    font-size: 0.8rem;
+}
+
 .fst-badge {
     position: absolute;
     right: 0.625em;
