@@ -466,6 +466,29 @@ h6 {
     color: #c92222;
 }
 
+/* ------------------------------- Footer */
+
+.footer-content {
+    padding: 5px 0;
+}
+
+.footer-content__notice {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+}
+
+.footer-content__text {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    font-size: 0.8em;
+    color: #fff;
+}
+
 /* ------------------------------- Forms */
 
 #contact-form {
