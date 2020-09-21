@@ -150,9 +150,11 @@ View my wireframes here:
 
 **Tools & Libraries**
 
-
-
-
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Fonts](https://fonts.google.com/)
+* [Canva](https://www.canva.com/)
 
 ## Testing ##
 
