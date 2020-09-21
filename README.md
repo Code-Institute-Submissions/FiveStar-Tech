@@ -154,13 +154,53 @@ View my wireframes here:
 * [Bootstrap](https://getbootstrap.com/)
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Google Fonts](https://fonts.google.com/)
-* [Canva](https://www.canva.com/) used for royalty free images and graphic creation 
+* [Canva](https://www.canva.com/) used for royalty free images and graphic creation
 
 ## Testing ##
 
+When testing this site I used chromium dev tools.
 
+I tested the CSS code with [CSS Validator](http://jigsaw.w3.org/css-validator/), which passed **without issue**.
 
+The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool, which gave me the following **results:**
 
+* Warning:
+    * The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment
+    * Attribute is unnecessary for JavaScript resources
+
+* Error:
+    * Required form elements set without a multiple attribute or a size attribute
+    * For attribute requires and id
+
+* Fixes:
+    * shorten comment hypens to two consecutive hyphens
+    * Removed type attribute
+    * Removed for attribute
+    
+**Responsiveness**
+
+* **Implementation**: I have  used **Bootstrap** throughout the project to ensure **maximum** responsibility. Tested with **devtools**.
+
+* **Results**: **Responsiveness** was as expected, except for the **navbar**, which didn't collapse on click. I eventually found a simple working solution by reading **byllsa** [JavaScript](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/assets/js/scripts.js) file. Solution indirectly supplied by our **mentor**.
+
+* **Verdict**: After **resolving** the navbar issue, everything was responsive therefore this test **passed**.
+
+**Design**
+
+* **Implementation**: The **design** of the site was influenced by the scrolling parallax effect, which looks sleek on single page sites. I used **colours** and **styles** which complimented the site logo and progressed from there.
+
+* **Results**: The use of **fonts** and **colours** selected make the **content** standout throughout the site. I changed the opacity of the contact background image and introduced new colours to the list items as the text was hard to read.
+
+* **Verdict**: The site looks as intended with everything working. This test has **passed**.
+
+**Contact Form**
+
+* **Implementation**: The **contact form** is used to contact the site owner. I modified the form example from the **Bootstrap** site for my own **needs**. Client side form validation was **implemented** at the same time, so **users** need to populate every form field, **before** being able to **Submit** the form.
+
+* **Note**: It is not currently possible to submit the form, no feedback has been gathered yet.
+
+* **Results**: The contact form is working as intended, form fields are validated.
+* **Verdict**: Form validation works - test **passed**.
 
 ## Bugs ##
 
