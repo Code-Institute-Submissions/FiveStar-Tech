@@ -133,12 +133,12 @@ View my wireframes here:
 * Links to **Social Media**
 * **Back to Top** scroll button
 
-
-
 **Features** that will be **implemented** in the **future**:
-
-
-
+* **Contact Forms** with form validation
+* Transformation **Gallery**
+* Testimonial **Slideshow**
+* **Appointment / Booking** system
+* Secure **Payment** options
 
 ## Technologies Used ##
 
