@@ -144,8 +144,9 @@ View my wireframes here:
 
 **Languages**
 
-
-
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JS](https://en.wikipedia.org/wiki/JavaScript)
 
 **Tools & Libraries**
 
