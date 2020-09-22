@@ -536,6 +536,10 @@ h6 {
     margin-bottom: 0.3rem;
 }
 
+.booking-form__label--service {
+    font-size: 0.88rem;
+}
+
 .contact-form__label,
 .booking-form__label {
     color: inherit;
