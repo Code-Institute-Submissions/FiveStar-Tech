@@ -319,29 +319,33 @@ h6 {
 /* ------------------------------------------ About Section */
 
 /* Slideshow container */
-.section__slides-container {
+.slides-container {
     max-width: 1000px;
     position: relative;
 }
 
 /* Hide the images by default */
-.section__slides {
+.slides {
     display: none;
 }
 
-.section__slides--item {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-
-.qual-bg {
+.slides-bg {
     padding: 5px;
     border-radius: 4px;
     background-color: #d4dadf;
     border: 1px solid rgba(0,0,0,.125);
 }
 
-.qual__item {
+.slides-item {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.slides-group-item {
+    font-size: 0.8rem;
+}
+
+.slides-item__img {
     width: 4rem;
     height: 4rem;
     padding: 5px;
