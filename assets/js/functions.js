@@ -73,7 +73,7 @@ showSlides();
 
 function showSlides() {
   var i;
-  var slides = document.getElementsByClassName("section__slides");
+  var slides = document.getElementsByClassName("slides");
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
   }
