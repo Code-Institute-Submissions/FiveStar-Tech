@@ -1,7 +1,7 @@
 # [FiveStar Techniques](https://courtney-l.github.io/FiveStar-Tech/) #
 *Personal Training and Specialist Combat Coaching*
 
-![FiveStar Techniques](assets/img/fst-responsive.jpg)
+![FiveStar Techniques](assets/img/fst-header.jpg)
 
 ## Contents ##
 * UX
