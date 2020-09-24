@@ -29,12 +29,12 @@
 The **goal** of this project is to highlight the trainer’s knowledge and expertise, display a range of pre-planned programs and offer a tailored service with the use of the contact form. This project is aimed towards fitness enthusiasts and individuals looking to improve their overall health and wellbeing in an appealing way.
 
 ### User Goals
-* **Find information** about the trainer’s experience
-* **Review** a variety of fitness programs
-* **Book a consultation** directly from the site
-* **Send** a **message** to the **site owner**
-* Easily **find contact information**
-* **Responsive site** accessible on Desktop, Tablet or Mobile
+  * **Find information** about the trainer’s experience
+  * **Review** a variety of fitness programs
+  * **Book a consultation** directly from the site
+  * **Send** a **message** to the **site owner**
+  * Easily **find contact information**
+  * **Responsive site** accessible on Desktop, Tablet or Mobile
 
 ### User Stories
 * As a user, I need to feel comfortable with my potential trainer’s experience, personality and passion for fitness.
