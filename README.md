@@ -88,7 +88,7 @@ The main colours used;
   * for the Footer Background: **#343A40**;
   * for the Footer Text: **#F8F9FA**; Honey Yellow **#FFB100**
 
-![Palette](assets/img/fst-palette.png)
+![Palette](assets/img/fst-palette.jpg)
 
 The parallax text colours used;
   * for some backgrounds: rgb **(52 58 64 / 0.25)**; 
