@@ -14,6 +14,7 @@
         * Fonts
         * Icons
         * Colours
+        * Background
     * Features
         * Features that have been developed
         * Features that will be implemented in the future
