@@ -63,52 +63,42 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 
 ### Design Choices
 ---
+The influence of this project's theme came from a previous personal project, which contained sharp imagery that scaled well, so I decided to look for a colour scheme that would be complimentary.
 
 **Fonts**
 
-I looked for strong fonts which effectively attract viewers. I picked **Roboto** for the headers and titles and **Montserrat** for general text.
+I selected fonts based on their readability and strength to effectively attract viewers. For the headers and titles I picked **Roboto** and **Montserrat** for general text.
 
 **Icons**
 
-Icons used where provided by Font Awesome, used in moderation and are self-explanatory.
+Icons used where provided by [Font-Awesome](https://fontawesome.com/icons?d=gallery), used in moderation and are self-explanatory.
 
 **Colours**
 
+Used a previously designed logo as a starting point, the dominant **Red** was hard not to notice. Such a colour isn't just warm, but hot when used in design projects. The colour scheme I settled on would have **Red** as its primary colour.
+
 The main colours used;
-* for **H2** section headers: **#484541**;
-* for **H3** section sub-headers: **#CD5C5C**;
-* for **H4**, **H5** sub-titles and card titles: **#343A40**;
-* for header and navigation backgrounds: rgba **(52,58,64,0.9)**; hex **#343A40E6**;
-* for footer background: **#343A40**;
-* for header, navigation and footer text: **#FFFFFF**;
-* for body and section backgrounds: **#FFFFFF**;
-* for body text: **#494949**;
+  * for **H2** Section Headers: **#343A40**;
+  * for **H3** Section Sub-headers: **#C92222**;
+  * for **H4**, **H5** Sub-titles and Cards: **#343A40**;
+  * for the Header and Navigation Background: rgb**(52,58,64,0.9)**
+  * for the Header and Navigation Text: **#F8F9FA**
+  * for the Body and Section Backgrounds: White **#FFFFFF**;
+  * for the Body Text: **#494949**;
+  * for the Footer Background: **#343A40**;
+  * for the Footer Text: **#F8F9FA**; Honey Yellow **#FFB100**
 
-![Main Palette](assets/img/fst-palette1.png)
+![Palette](assets/img/fst-palette.png)
 
-The parallax colours used;
-* for some backgrounds: rgba **(248, 6, 6, 0.68)**; hex **#F80606AD**;
-* for some backgrounds: rgba **(0, 0, 0, 0.25)**; hex **#00000040**;
-* for horizontal rule: **#E3C44C**;
-* for all text: **#F4FAFF**;
+The parallax text colours used;
+  * for some backgrounds: rgb **(52 58 64 / 0.25)**; 
+  * for other backgrounds: rgb **(201 34 34 / 0.8)**;
+  * for the horizontal rule: **#E3C44C**;
+  * for text: **#F8F9FA**;
 
-![Parallax Palette](assets/img/fst-palette2.png)
+**Background**
 
-The card and form colours used;
-* for card and form backgrounds: **#D4DADF**;
-* for card titles and form-control backgrounds: **#343A40**;
-* for card subtitle: **#035D18**;
-* for form-control input text: **#CDCDCD**;
-* for labels and card text: **#494949**;
-
-![Card & Form Palette](assets/img/fst-palette3.png)
-
-The contact information & social icon colours used;
-* for some backgrounds: **#C92222**;
-* for some backgrounds: **#343A40**;
-* for all text: **#F8F9FA**;
-
-![Contact & Socials Palette](assets/img/fst-palette4.png)
+Images used on the Parallax feature were from an 'old project', which I have permission to use. The imagery is crisp, sharp and is the inspiration behind my project choices.
 
 ## Wireframing
 
