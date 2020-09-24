@@ -51,10 +51,10 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 ### User Requirements and Expectations
 
 **Requirements**
-* Browse the website using the navigation menu.
-* Locate information under titled sections
-* Visually appealing content with a mixture of text, images and subtle effects
-* Working contact forms with options
+  * Browse the website using the navigation menu.
+  * Locate information under titled sections
+  * Visually appealing content with a mixture of text, images and subtle effects
+  * Working contact forms with options
 
 **Expectations**
 * Content is visually satisfying and informative.
