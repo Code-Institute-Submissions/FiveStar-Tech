@@ -152,49 +152,48 @@ View my wireframes here:
 
 ## Testing
 
-When testing this site I used an online tool called [Lambdatest](https://www.lambdatest.com/) and chromium dev tools.
+When testing this site I used an online tool called [Lambdatest](https://www.lambdatest.com/) and Chromium Dev Tools. 
 
-I tested the CSS code with [CSS Validator](http://jigsaw.w3.org/css-validator/), which passed **without issue**.
+I tested the CSS code with [CSS Validator](http://jigsaw.w3.org/css-validator/), which passed **without issue**. 
 
 The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool, which gave me the following **results:**
 
 * Warnings:
-    * The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment
-    * Attribute is unnecessary for JavaScript resources
+  * The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment
+  * Attribute is unnecessary for JavaScript resources
 
 * Errors:
-    * Required form elements set without a multiple attribute or a size attribute
-    * For attribute requires and id
+  * Required form elements set without a multiple attribute or a size attribute
+  * For attribute requires and id
 
 * Fixes:
-    * Shorten comment hypens
-    * Removed type attribute
-    * Removed for attribute
+  * Reduced comment hypens
+  * Removed type attribute
+  * Removed for attribute
     
 **Responsiveness**
 
-* **Implementation**: I have  used **Bootstrap** throughout the project to ensure **maximum** responsibility. Tested with **devtools**.
+  * **Implementation**: I used **Bootstrap** throughout the project to ensure **maximum** responsiveness. Tested with **Chromium Dev Tools** and [Lambdatest](https://www.lambdatest.com/).
 
-* **Results**: **Responsiveness** was as expected, except for the **navbar**, which didn't collapse on click. I eventually found a simple working solution by reading **byllsa** [JavaScript](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/assets/js/scripts.js) file. Solution indirectly supplied by our **mentor**.
+  * **Results**: Responsiveness was as expected, except for the **Navbar**, which didn't collapse on click. I eventually found a simple working solution from a fellow students [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/assets/js/scripts.js) project.
 
-* **Verdict**: After **resolving** the navbar issue, everything was responsive therefore this test **passed**.
+  * **Verdict**: After resolving the Navbar issue, everything was responsive. This test **passed**.
 
 **Design**
 
-* **Implementation**: The **design** of the site was influenced by the scrolling parallax effect, which looks sleek on single page sites. I used **colours** and **styles** which complimented the site logo and progressed from there.
+  * **Implementation**: The design of the site was based around the Parallax effect and sharp images, which looks modern and sleek on single page sites. I used **colours** and **styles** which complimented the site logo and progressed from there.
 
-* **Results**: The use of **fonts** and **colours** selected make the **content** standout throughout the site. I changed the opacity of the contact background image and introduced new colours to the list items as the text was hard to read.
+  * **Results**: The use of **fonts** and **colours** selected make the **content** standout throughout the site. I changed the opacity of the contact background image and introduced new colours to the list items as the text was hard to read.
 
-* **Verdict**: The site looks as intended with everything working. This test has **passed**.
+  * **Verdict**: The site looks as intended with everything working. This test has **passed**.
 
 **Contact Form**
 
-* **Implementation**: The **contact form** is used to contact the site owner. I modified the form example from the **Bootstrap** site for my own **needs**. Client side form validation was **implemented** at the same time, so **users** need to populate every form field, **before** being able to **Submit**.
+  * **Implementation**: The **contact form** is used to contact the site owner. I modified the form example from the **Bootstrap** site for **my own needs**. Client side validation was **implemented** at the same time, preventing **users** from skipping required fields when clicking **Submit**.
 
-* **Note**: It is not currently possible to submit the form, no feedback has been gathered yet.
-
-* **Results**: The contact form is working as intended, form fields are validated.
-* **Verdict**: Form validation works - test **passed**.
+  * **Results**: The contact form is working as intended, form fields are validated.
+  * **Verdict**: Basic form validation works. This test **passed**.
+  * **Please Note**: The **Submit** button is not currently configured, no feedback has been gathered.
 
 ## Bugs
 
