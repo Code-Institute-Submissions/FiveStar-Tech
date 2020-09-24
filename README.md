@@ -57,9 +57,9 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
   * Working contact forms with options
 
 **Expectations**
-* Content is visually satisfying and informative.
-* Navigation and links work as intended.
-* Working buttons to avoid big lumps of clustered text.
+  * Content is visually satisfying and informative.
+  * Navigation and links work as intended.
+  * Working buttons to avoid big lumps of clustered text.
 
 ### Design Choices
 ---
