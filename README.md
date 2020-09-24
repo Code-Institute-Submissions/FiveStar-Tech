@@ -228,9 +228,33 @@ Here are some bugs I encountered **during development**;
 
 ## Deployment
 
+FiveStar Techniques was developed on GitPod, using git and GitHub to host the repository.
 
+When deploying FiveStar Techniques using GitHub Pages the following steps were made:
 
+* Opened up **GitHub** in the browser.
+* Signed in using username and password.
+* Selected my **repositories**.
+* Navigated to **'/Courtney-L/FiveStar-Tech'**.
+* In the top navigation clicked **'settings'**.
+* Scrolled down to the **GitHub Pages** area. 
+* Selected **'Master Branch'** from the **'Source'** dropdown menu.
+* Clicked to confirm my selection.
+* FiveStar Techniques now live on GitHub Pages.
 
+#### Running FiveStar Techniques Locally
+
+Cloning FiveStar Techniques from GitHub:
+
+* Navigate to **'/Courtney-L/FiveStar-Tech'**.
+* Click the green **'Clone or Download'** button.
+* Copy the **url** in the dropdown box.
+* Using your favourite **IDE** open up your preferred **terminal**.
+* Navigate to your desired file location. 
+* Copy the following **code** and input it into your terminal to clone FiveStar Techniques.
+ ```git
+  git clone https://github.com/Courtney-L/FiveStar-Tech.git 
+   ```
 
 ## Credits
 
