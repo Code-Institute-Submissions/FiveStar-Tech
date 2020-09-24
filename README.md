@@ -175,7 +175,7 @@ The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool
 
   * **Implementation**: I used **Bootstrap** throughout the project to ensure **maximum** responsiveness. Tested with **Chromium Dev Tools** and [Lambdatest](https://www.lambdatest.com/).
 
-  * **Results**: Responsiveness was as expected, except for the **Navbar**, which didn't collapse on click. I eventually found a simple working solution from a fellow students [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/assets/js/scripts.js) project.
+  * **Results**: Responsiveness was as expected, except for the **Navbar**, which didn't collapse on click. I eventually found a simple working solution from a fellow student [byIlsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/assets/js/scripts.js) project.
 
   * **Verdict**: After resolving the Navbar issue, everything was responsive. This test **passed**.
 
@@ -276,7 +276,9 @@ Cloning FiveStar Techniques from GitHub:
     * [British Thai Boxing Council - BTBC](http://www.british-thai-boxing-council.com/)
 
 **Special Thanks**
+  * My mentor [Simen Daehlin](https://github.com/Eventyret) for his continued support and advice, very much appreciated
+  * Fellow students [byIlsa](https://github.com/byIlsa) & [Geomint](https://github.com/Geomint) for thier helpful README files
+  * **Student Support** for their amazing help and understanding 
   * **Stuart Anthony** - *fictious name, but he knows who he is*
-
 
 #### THIS SITE IS FOR EDUCATIONAL PURPOSES ONLY!
