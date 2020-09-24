@@ -259,17 +259,22 @@ Cloning FiveStar Techniques from GitHub:
 ## Credits
 
 **Credit for text used on this website**
-
-
-
+  * Profile - Contains fictional text for a mock profile description. - *this is my own original writing*
+  * Gifs & Quotes - Used Google to find inspirational fitness quotes for the **Parallax** and **Card** gif text. - *all common quotes with unknown sources*
+  * Card Descriptions - Sampled training plans provided by **Stuart Anthony**.
 
 **Images Used**
+  * Used [Canva](https://www.canva.com/) pro account features to create the site Logo, Card gif's and Contact Me map. All images are free to use under Canva's [Free Media License Agreement](https://about.canva.com/license-agreements/free-media/).
 
+  * Many thanks to **Stuart Anthony** for the permission to use his photo and excellent training shots.
 
-
+  * **Logos**
+    * [YMCAFit](https://www.ymcafit.org.uk/)
+    * [CIMSPA](https://www.cimspa.co.uk/)
+    * [England Boxing](https://www.englandboxing.org)
+    * [British Thai Boxing Council - BTBC](http://www.british-thai-boxing-council.com/)
 
 **Special Thanks**
-
-
+  * **Stuart Anthony** - *fictious name, but he knows who he is*
 
 **Site for educational purposes only!**
