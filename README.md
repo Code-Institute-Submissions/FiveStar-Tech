@@ -102,7 +102,7 @@ Images used on the Parallax feature were from an 'old project', which I have per
 
 ## Wireframing
 
-I used Balsamiq Wireframes to produce basic wireframes on various screen sizes. This helped me to arrange the overall layout and placement of elements on a single scrolling page, with anchored links and sections.
+I used [Balsamiq Wireframes](https://balsamiq.com/wireframes/) to produce basic wireframes for various screen sizes. This helped me to arrange the overall layout and placement of elements on a single scrolling page, with anchored links and sections.
 
 View my wireframes here:
 
