@@ -1,9 +1,9 @@
-# [FiveStar Techniques](https://courtney-l.github.io/FiveStar-Tech/) #
+# [FiveStar Techniques](https://courtney-l.github.io/FiveStar-Tech/)
 *Personal Training and Specialist Combat Coaching*
 
 ![FiveStar Techniques](assets/img/fst-header.jpg)
 
-## Contents ##
+## Contents
 * UX
     * Project Goals
     * User Goals
@@ -23,12 +23,12 @@
     * Deployment
     * Credit
 
-## UX (User Experience) ##
+## UX (User Experience)
 
-### Project Goals ###
+### Project Goals
 The **goal** of this project is to highlight the trainer’s knowledge and expertise, display a range of pre-planned programs and offer a tailored service with the use of the contact form. This project is aimed towards fitness enthusiasts and individuals looking to improve their overall health and wellbeing in an appealing way.
 
-### User Goals ###
+### User Goals
 * **Find information** about the trainer’s experience
 * **Review** a variety of fitness programs
 * **Book a consultation** directly from the site
@@ -36,19 +36,19 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 * Easily **find contact information**
 * **Responsive site** accessible on Desktop, Tablet or Mobile
 
-### User Stories ###
+### User Stories
 * As a user, I need to feel comfortable with my potential trainer’s experience, personality and passion for fitness.
 * As a user, I want to find a suitable program for my needs where exercises are fun and engaging.
 * As a user, I want a trainer who can offer a varied and effective workout.
 * As a user, I need to locate a trainer who is accessible to my current location.
 
-### Site Owner Goals ###
+### Site Owner Goals
 * As a site owner, I want to generate new leads and interest from fitness enthusiasts.
 * As a site owner, I want to make the booking process self-explanatory.
 * As a site owner, I want to encourage feedback about services offered and how they can be improved.
 * As a site owner, I want to receive communication through the contact form.
 
-### User Requirements and Expectations ###
+### User Requirements and Expectations
 
 **Requirements**
 * Browse the website using the navigation menu.
@@ -61,7 +61,7 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 * Navigation and links work as intended.
 * Working buttons to avoid big lumps of clustered text.
 
-### Design Choices ###
+### Design Choices
 ---
 
 **Fonts**
@@ -110,7 +110,7 @@ The contact information & social icon colours used;
 
 ![Contact & Socials Palette](assets/img/fst-palette4.png)
 
-## Wireframing ##
+## Wireframing
 
 I used Balsamiq Wireframes to produce basic wireframes on various screen sizes. This helped me to arrange the overall layout and placement of elements on a single scrolling page, with anchored links and sections.
 
@@ -122,7 +122,7 @@ View my wireframes here:
 * [Mobile Wireframe - Portrait](wireframes/fst-mobile-portrait.png)
 * [Mobile Wireframe - Landscape](wireframes/fst-mobile-landscape.png)
 
-## Features ##
+## Features
 
 **Features** that have been **developed**:
 * **Responsive** design on all screen sizes and viewports
@@ -142,7 +142,7 @@ View my wireframes here:
 * **Appointment / Booking** system
 * Secure **Payment** options
 
-## Technologies Used ##
+## Technologies Used
 
 **Languages**
 
@@ -158,7 +158,7 @@ View my wireframes here:
 * [Google Fonts](https://fonts.google.com/)
 * [Canva](https://www.canva.com/) used for royalty free images and graphic creation
 
-## Testing ##
+## Testing
 
 When testing this site I used an online tool called [Lambdatest](https://www.lambdatest.com/) and chromium dev tools.
 
@@ -204,7 +204,7 @@ The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool
 * **Results**: The contact form is working as intended, form fields are validated.
 * **Verdict**: Form validation works - test **passed**.
 
-## Bugs ##
+## Bugs
 
 Here are some bugs I encountered **during development**;
 
@@ -229,13 +229,13 @@ Here are some bugs I encountered **during development**;
 * Contact Background Image:
     * Changed the image opacity in Canva, then changed the contact & social list item colours to this pallette [Contact & Socials Palette](assets/img/fst-palette4.png)
 
-## Deployment ##
+## Deployment
 
 
 
 
 
-## Credits ##
+## Credits
 
 **Credit for text used on this website**
 
