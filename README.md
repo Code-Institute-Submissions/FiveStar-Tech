@@ -134,18 +134,21 @@ View my wireframes here:
 ## Technologies Used
 
 **Languages**
-
-* [HTML](https://en.wikipedia.org/wiki/HTML)
-* [CSS](https://en.wikipedia.org/wiki/CSS)
-* [JS](https://en.wikipedia.org/wiki/JavaScript)
+  * [HTML](https://en.wikipedia.org/wiki/HTML)
+  * [CSS](https://en.wikipedia.org/wiki/CSS)
+  * [JS](https://en.wikipedia.org/wiki/JavaScript)
 
 **Tools & Libraries**
-
-* [Git](https://git-scm.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
-* [Google Fonts](https://fonts.google.com/)
-* [Canva](https://www.canva.com/) used for royalty free images and graphic creation
+  * [Git](https://git-scm.com/)
+  * [Bootstrap](https://getbootstrap.com/)
+  * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+  * [Google Fonts](https://fonts.google.com/)
+  * [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
+  * [IrfanView](https://www.irfanview.com/)
+  * [Canva](https://www.canva.com/)
+  * [BEM](http://getbem.com/introduction/)
+  * [Coolors.co](https://coolors.co/)
+  * [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
 
 ## Testing
 
