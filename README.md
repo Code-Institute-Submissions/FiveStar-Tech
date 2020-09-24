@@ -115,22 +115,21 @@ View my wireframes here:
 ## Features
 
 **Features** that have been **developed**:
-* **Responsive** design on all screen sizes and viewports
-* **Fixed Navigation**
-* Scrolling **Parallax** effect
-* Automatic **Slideshow**
-* **Collapsible / Hidden** data
-* Responsive **Modal**
-* **Contact Forms** with required options
-* Links to **Social Media**
-* **Back to Top** scroll button
+  * **Responsive** design on all screen sizes and viewports
+  * **Fixed Navigation**
+  * Scrolling **Parallax** effect
+  * Automatic **Slideshow**
+  * **Collapsible / Hidden** data
+  * Responsive **Modal**
+  * **Contact Forms** with basic validation
+  * Links to **Social Media**
+  * **Scroll to Top** button
 
 **Features** that will be **implemented** in the **future**:
-* **Contact Forms** with form validation
-* Transformation **Gallery**
-* Testimonial **Slideshow**
-* **Appointment / Booking** system
-* Secure **Payment** options
+  * Transformation **Gallery**
+  * Testimonial **Slideshow**
+  * **Appointment / Booking** system
+  * Secure **Payment** options
 
 ## Technologies Used
 
