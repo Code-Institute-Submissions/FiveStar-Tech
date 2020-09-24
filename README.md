@@ -52,10 +52,10 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
 ### User Requirements and Expectations
 
 **Requirements**
-  * Browse the website using the navigation menu.
+  * Browse the website using the navigation menu
   * Locate information under titled sections
   * Visually appealing content with a mixture of text, images and subtle effects
-  * Working contact forms with options
+  * Working contact forms with validation
 
 **Expectations**
   * Content is visually satisfying and informative.
@@ -72,7 +72,7 @@ I selected fonts based on their readability and strength to effectively attract 
 
 **Icons**
 
-Icons used where provided by [Font-Awesome](https://fontawesome.com/icons?d=gallery), used in moderation and are self-explanatory.
+Icons used where provided by [Font Awesome](https://fontawesome.com/icons?d=gallery), used in moderation and are self-explanatory.
 
 **Colours**
 
@@ -82,7 +82,7 @@ The main colours used;
   * for **H2** Section Headers: **#343A40**;
   * for **H3** Section Sub-headers: **#C92222**;
   * for **H4**, **H5** Sub-titles and Cards: **#343A40**;
-  * for the Header and Navigation Background: rgb**(52,58,64,0.9)**
+  * for the Header and Navigation Background: rgba **(52,58,64,0.9)**
   * for the Header and Navigation Text: **#F8F9FA**
   * for the Body and Section Backgrounds: White **#FFFFFF**;
   * for the Body Text: **#494949**;
@@ -92,9 +92,8 @@ The main colours used;
 ![Palette](assets/img/fst-palette.jpg)
 
 The parallax text colours used;
-  * for some backgrounds: rgb **(52 58 64 / 0.25)**; 
-  * for other backgrounds: rgb **(201 34 34 / 0.8)**;
-  * for the horizontal rule: **#E3C44C**;
+  * for some backgrounds: rgba **(52,58,64,0.25)**; 
+  * for other backgrounds: rgba **(201,34,34,0.8)**;
   * for text: **#F8F9FA**;
 
 **Background**
@@ -216,7 +215,7 @@ Here are some bugs I encountered **during development**;
     ```
 
 * Parallax:
-  * Set the Parallax container *position* to **Fixed !important** and *Z-Index* to **1**. *This also helped to resolve the fixed navigation issue above*
+  * Set the Parallax container *position* to **Fixed !important** and *Z-Index* to **1**. *this also helped to resolve the fixed navigation issue above*
 
 * Slideshow JS:
   * The **Fade** class for the **Slideshow** conflicted with the same class applied to the **Modal**. Resolved by moving the **Slideshow function** to the end of the **functions.js** script.
@@ -241,7 +240,8 @@ When deploying FiveStar Techniques using GitHub Pages the following steps were m
 * Scrolled down to the **GitHub Pages** area. 
 * Selected **'Master Branch'** from the **'Source'** dropdown menu.
 * Clicked to confirm my selection.
-* FiveStar Techniques now live on GitHub Pages.
+* FiveStar Techniques is now live on GitHub Pages.
+* [View Live Site](https://courtney-l.github.io/FiveStar-Tech/)
 
 #### Running FiveStar Techniques Locally
 
@@ -278,4 +278,5 @@ Cloning FiveStar Techniques from GitHub:
 **Special Thanks**
   * **Stuart Anthony** - *fictious name, but he knows who he is*
 
-**Site for educational purposes only!**
+
+#### THIS SITE IS FOR EDUCATIONAL PURPOSES ONLY!
