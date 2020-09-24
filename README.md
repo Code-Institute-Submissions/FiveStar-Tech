@@ -1,4 +1,4 @@
-# <a href="https://courtney-l.github.io/FiveStar-Tech/" target="_blank">FiveStar Techniques</a>
+# [FiveStar Techniques](https://courtney-l.github.io/FiveStar-Tech/)
 *Personal Training and Specialist Combat Coaching*
 
 ![FiveStar Techniques](assets/img/fst-header.jpg)
