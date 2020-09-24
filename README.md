@@ -37,10 +37,10 @@ The **goal** of this project is to highlight the trainer’s knowledge and exper
   * **Responsive site** accessible on Desktop, Tablet or Mobile
 
 ### User Stories
-* As a user, I need to feel comfortable with my potential trainer’s experience, personality and passion for fitness.
-* As a user, I want to find a suitable program for my needs where exercises are fun and engaging.
-* As a user, I want a trainer who can offer a varied and effective workout.
-* As a user, I need to locate a trainer who is accessible to my current location.
+  * As a **user**, I need to feel comfortable with my potential trainer’s experience, personality and passion for fitness.
+  * As a **user**, I want to find a suitable program for my needs where exercises are fun and engaging.
+  * As a **user**, I want a trainer who can offer a varied and effective workout.
+  * As a **user**, I need to locate a trainer who is accessible to my current location.
 
 ### Site Owner Goals
 * As a site owner, I want to generate new leads and interest from fitness enthusiasts.
