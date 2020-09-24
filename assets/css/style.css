@@ -114,16 +114,17 @@ h6 {
 
 /* ------------------------------- Buttons / Badges */
 
-.btn__cta {
+.btn-cta {
 	margin: 15px 5px 0px;
     font-weight: 500;
     font-size: 0.8rem;
 }
 
-.btn__cta--splash {
+.btn-cta--splash {
+	margin-top: 40px;
     font-size: 1em;
     font-weight: 600;
-	margin-top: 40px;
+    color: #343a40;
 }
 
 .btn__modal {
