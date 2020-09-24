@@ -51,7 +51,7 @@ h6 {
 }
 
 .menu__bg--opaque {
-    background-color: #343a40e6;
+    background-color: rgb(52 58 64 / 0.9);
 }
 
 .menu__item {
@@ -63,7 +63,7 @@ h6 {
     width: 100%;
     padding-bottom: 5px;
     text-decoration: none;
-    color: #fff;
+    color: #f8f9fa;
     font-weight: 500;
 }
 
@@ -103,7 +103,7 @@ h6 {
     height: 0.125em;
     margin: 0px auto;    
     border: 0px;
-    background-color: rgb(248, 6, 6);
+    background-color: rgb(201 34 34 / 0.8);
 }
 
 .block__hr__modal {
@@ -232,7 +232,7 @@ h6 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.85);
     font-size: 3em;
     font-weight: 800;
-    color: #f4faff;
+    color: #f8f9fa;
 }
 
 .bg__text {
@@ -251,12 +251,12 @@ h6 {
 }
 
 .bg__text__border--ruby {
-	background-color: rgba(248, 6, 6, 0.68);
+	background-color: rgba(201,34,34,0.8);
     padding: 8px;
 }
 
 .bg__text__border--dark {
-	background-color: rgba(0, 0, 0, 0.25);
+	background-color: rgba(52,58,64,0.25);
     padding: 8px;
 }
 
@@ -268,7 +268,7 @@ h6 {
     width: 100%;
     min-height: 12%;
     z-index: 2;
-    background: white;
+    background: #fff;
 }
 
 .section__container {
@@ -333,8 +333,6 @@ h6 {
 .slides-bg {
     padding: 5px;
     border-radius: 4px;
-    /* background-color: #d4dadf;
-    border: 1px solid rgba(0,0,0,.125); */
 }
 
 .slides-item {
@@ -492,10 +490,6 @@ h6 {
     text-decoration: none;
 }
 
-/* .contact-list__badge:hover > i {
-    color: #fff;
-} */
-
 .social-icons__list--item i:hover  {
     color: #c92222;
 }
@@ -520,7 +514,7 @@ h6 {
     margin-bottom: auto;
     text-align: center;
     font-size: 0.65em;
-    color: #fff;
+    color: #f8f9fa;
 }
 
 /* ------------------------------- Forms */
@@ -592,7 +586,6 @@ h6 {
 
 .booking-form__service {
     padding-top: 3px;
-    /* font-size: 1.3rem; */
     font-weight: 500;    
     line-height: 1;
     border: none;    
