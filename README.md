@@ -197,28 +197,34 @@ The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool
 
 ## Bugs
 
-Here are some bugs I encountered **during development**;
+Here are some bugs I encountered **during development**;
 
 * Fixed Navigation:
-	* Added the no-gutters class to the header tag. This resolved the parallax overflow issue.
+  * Added the **no-gutters** class to the **Header** tag which resolved the Parallax overflow issue.
 
-* Navigation Anchors:
-    * Added a span inside each h2 section title, then set an id for the anchors.
+* Navigation Anchors:
+  * Added a span inside each **H2** Section Title, then set an **ID** for the navigation anchors.
 
-* Navbar Links Not Collapsing After Click - **on mobile**:
-    * Fixed this with some js.
+* Navbar Links Not Collapsing After Click - *on mobile*:
+  * Fixed this with some js.
+
+  * ```js
+    $('.navbar-nav>li>a').on('click', function () {
+        $('.navbar-collapse').collapse('hide');
+    }); 
+    ```
 
 * Parallax:
-    * Set the correct z-index and set position to fixed.
+  * Set the Parallax container *position* to **Fixed !important** and *Z-Index* to **1**. *This also helped to resolve the fixed navigation issue above*
 
 * Slideshow JS:
-	* The fade class for the slideshow clashed with the Modal fade class. Moved the slideshow js function to the end of functions.js script to resolve.
+  * The **Fade** class for the **Slideshow** conflicted with the same class applied to the **Modal**. Resolved by moving the **Slideshow function** to the end of the **functions.js** script.
 
 * Modal:
-    * Placed the modal code outside of the main tag for the modal overlay to work correctly.
+  * Placed the **Modal** container outside of the **Main** tag to allow the modal overlay to work correctly.
 
-* Contact Background Image:
-    * Changed the image opacity in Canva, then changed the contact & social list item colours to this pallette [Contact & Socials Palette](assets/img/fst-palette4.png)
+* Contact Me - *background image*:
+  * Changed the image opacity in Canva and re-uploaded file, then changed the colours for **Contact** & **Social** list items to algin with the project colour scheme - Lava **#C92222**, Gunmetal **#343A40** and Cultured **#F8F9FA**.
 
 ## Deployment
 
