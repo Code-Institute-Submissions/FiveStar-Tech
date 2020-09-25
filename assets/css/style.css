@@ -206,7 +206,6 @@ h6 {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    -webkit-background-attachment: scroll;
     min-height: 400px;
 }
 
