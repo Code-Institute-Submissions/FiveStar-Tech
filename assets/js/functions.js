@@ -101,7 +101,7 @@ function showSlides() {
 
 // Set Button Variable(s)
 var contact_btn = document.getElementById("contactSub");
-var modal_btn = document.getElementById("bookSub");
+var modal_btn = document.getElementById("bookingSub");
 
 function formReply() {
     alert("Thank you for testing this form and its functions. As you may have guessed, the SUBMIT button works as expected, however form attributes Action and Method have not been configured for this project. This feature will be developed in the future.");
