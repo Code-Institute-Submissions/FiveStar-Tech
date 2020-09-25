@@ -1,3 +1,8 @@
+// 
+// This article about JS Event Listners helped me to modifiy solutions found in this script for my needs.
+// Limitations of a single function per event, per element was not an option.
+// https://www.tutorialrepublic.com/javascript-tutorial/javascript-event-listeners.php
+
 // --------------------------------------------- Navbar Close Function
 
 /**
@@ -41,6 +46,9 @@ splash_btn.onclick = service_02;
 
 // --------------------------------------------- Back To Top Function
 
+// Used source code & css from W3schools to enable this feature. Modified for my needs.
+// https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+
 var top_btn = document.getElementById("top_btn");
 
 // When the user scrolls down 800 pixels from the top of the document, show the top button
@@ -67,6 +75,9 @@ top_btn.onclick = topFunction;
 // --------------------------------------------- End-of-function
 
 // --------------------------------------------- Automatic Slideshow function
+
+// Used source code from W3Schools Automatic Slideshow
+// and modified for my needs - https://www.w3schools.com/howto/howto_js_slideshow.asp
 
 var slideIndex = 0;
 showSlides();
