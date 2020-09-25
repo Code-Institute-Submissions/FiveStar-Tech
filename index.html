@@ -269,25 +269,27 @@
                                     <input class="form-control contact-form__control" type="Email" id="inputEmail" name="Email" placeholder="Email Address" required>
                                 </div>
                                 <div class="form-group col-sm-6 col-md-6 contact-form__group">
-                                    <label class="form-label contact-form__label" for="Gender">Gender:</label>
-                                    <select class="form-control contact-form__control" name="Gender" id="Gender">
-                                        <option value="Male" selected >Male</option>
+                                    <label class="form-label contact-form__label" for="Gender">Gender:*</label>
+                                    <select class="form-control contact-form__control" name="Gender" id="Gender" required>
+                                        <option value="" selected>select gender</option>
+                                        <option value="Male">Male</option>
                                         <option value="Female">Female</option>
                                         <option value="Prefer not to say">Prefer not to say</option>
                                     </select>
                                 </div>
                                 <div class="form-group col-sm-6 col-md-6 contact-form__group">
-                                    <label class="form-label contact-form__label" for="Help">How Can We Help?</label>
-                                    <select class="form-control contact-form__control" name="Help" id="Help">
+                                    <label class="form-label contact-form__label" for="Help">How Can We Help?*</label>
+                                    <select class="form-control contact-form__control" name="Help" id="Help" required>
+                                        <option value="" selected>please select</option>
                                         <option value="Personal Training">Personal Training</option>
                                         <option value="Combat Coaching">Combat Coaching</option>
                                         <option value="Special Event Training">Special Event Training</option>
-                                        <option value="General Enquiry" selected>General Enquiry</option>
+                                        <option value="General Enquiry">General Enquiry</option>
                                     </select>
                                 </div>
                                 <div class="form-group col-12 contact-form__group">
-                                    <label class="form-label contact-form__label" for="Message">Message:</label>
-                                    <textarea class="form-control contact-form__control" id="Message" name="your-message" placeholder="Type your message here.." rows="5"></textarea>
+                                    <label class="form-label contact-form__label" for="Message">Message:*</label>
+                                    <textarea class="form-control contact-form__control" id="Message" name="your-message" placeholder="Type your message here.." rows="5" required></textarea>
                                 </div>
                             </div>
                             <button class="btn btn-light btn-cta mr-2" type="reset">Reset</button>        
@@ -377,30 +379,31 @@
                             <hr class="block__hr block__hr__modal">
                             <div class="text-center mb-1">
                                 <span>
-                                    <small>Please take the time to provide us with some contact information.</small>
+                                    <small>This form requires all fields marked with an <strong>*</strong> to be completed.</small>
                                 </span>
                             </div>
                             <div class="form-row booking-form__row booking-form__row--first">
                                 <div class="form-group col-sm-6 booking-form__group">
-                                    <label class="form-label booking-form__label" for="bookingFname">First Name:</label>
-                                    <input class="form-control form-control-sm booking-form__control" type="text" id="bookingFname" name="Firstname" placeholder="eg. Jane" required>
+                                    <label class="form-label booking-form__label" for="bookingFname">First Name:*</label>
+                                    <input class="form-control form-control-sm booking-form__control" type="text" id="bookingFname" name="Firstname" placeholder="eg. jane" required>
                                 </div>
                                 <div class="booking-form__group form-group col-sm-6">
-                                    <label class="form-label booking-form__label" for="bookingLname">Last Name:</label>
-                                    <input class="form-control form-control-sm booking-form__control" type="text" id="bookingLname" name="Lastname" placeholder="eg. Doe" required>
+                                    <label class="form-label booking-form__label" for="bookingLname">Last Name:*</label>
+                                    <input class="form-control form-control-sm booking-form__control" type="text" id="bookingLname" name="Lastname" placeholder="eg. doe" required>
                                 </div>
                             </div>
                             <div class="form-row booking-form__row">    
                                 <div class="form-group col-sm-6 col-md-6 booking-form__group">
-                                    <label class="form-label booking-form__label" for="bookingEmail">Email Address:</label>
+                                    <label class="form-label booking-form__label" for="bookingEmail">Email Address:*</label>
                                     <input class="form-control form-control-sm booking-form__control" type="email" id="bookingEmail" name="Email" placeholder="your.email@address.com" required>
                                 </div>
                                 <div class="form-group col-sm-6 booking-form__group">
-                                    <label class="form-label booking-form__label" for="bookingAge">Age Group:</label>
-                                    <select class="form-control form-control-sm booking-form__control" name="Age Group" id="bookingAge">
+                                    <label class="form-label booking-form__label" for="bookingAge">Age Group:*</label>
+                                    <select class="form-control form-control-sm booking-form__control" name="Age Group" id="bookingAge" required>
+                                        <option value="" selected>select age group</option>
                                         <option value="Under 18">Under 18</option>
                                         <option value="18-25">18 - 25</option>
-                                        <option value="25-35" selected >25 - 35</option>
+                                        <option value="25-35">25 - 35</option>
                                         <option value="35-50">35 - 50</option>
                                         <option value="Over 50">Over 50</option>
                                     </select>
@@ -408,15 +411,16 @@
                             </div>
                             <div class="form-row booking-form__row">
                                 <div class="form-group col-sm-6 col-md-6 booking-form__group">
-                                    <label class="form-label booking-form__label" for="bookingPhone">Contact Number:</label>
+                                    <label class="form-label booking-form__label" for="bookingPhone">Contact Number:*</label>
                                     <input class="form-control form-control-sm booking-form__control" type="tel" id="bookingPhone" name="Phone" pattern="[0-9]{5}-[0-9]{3}-[0-9]{3}" placeholder="eg. 01234-123-456" required>
                                 </div>
                                 <div class="form-group col-sm-6 col-md-6 booking-form__group">
-                                    <label class="form-label booking-form__label" for="bookingCall">Best Time to Call:</label>
-                                    <select class="form-control form-control-sm booking-form__control" name="CallTime" id="bookingCall">
+                                    <label class="form-label booking-form__label" for="bookingCall">Best Time to Call:*</label>
+                                    <select class="form-control form-control-sm booking-form__control" name="CallTime" id="bookingCall" required>
+                                        <option value="" selected>select best time</option>
                                         <option value="Mornings">Mornings</option>
                                         <option value="Afternoons">Afternoons</option>
-                                        <option value="Evenings" selected >Evenings</option>
+                                        <option value="Evenings">Evenings</option>
                                         <option value="Weekends">Weekends</option>
                                     </select>
                                 </div>
