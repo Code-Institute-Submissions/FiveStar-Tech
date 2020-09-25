@@ -51,7 +51,7 @@ h6 {
 }
 
 .menu__bg--opaque {
-    background-color: rgb(52 58 64 / 0.9);
+    background-color: rgba(52,58,64,0.9);
 }
 
 .menu__item {
