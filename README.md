@@ -121,11 +121,12 @@ View my wireframes here:
   * Automatic **Slideshow**
   * **Collapsible / Hidden** data
   * Responsive **Modal**
-  * **Contact Forms** with basic validation
+  * **Contact Forms** with basic validation and submission alert
   * Links to **Social Media**
   * **Scroll to Top** button
 
 **Features** that will be **implemented** in the **future**:
+  * **Complete** Contact Form configuration
   * Transformation **Gallery**
   * Testimonial **Slideshow**
   * **Appointment / Booking** system
@@ -193,7 +194,7 @@ The HTML code was tested with a [HTML Validator](https://validator.w3.org/) tool
 
   * **Results**: The contact form is working as intended, form fields are validated.
   * **Verdict**: Basic form validation works. This test **passed**.
-  * **Please Note**: The **Submit** button is not currently configured, no feedback has been gathered.
+  * **Please Note**: The **Submit** button is configured to display an alert on click. The Alert message serves as a notice of submission - please see **Bugs** > **Modal** for reasons why I did not choose to use a Modal. No feedback has been gathered.
 
 ## Bugs
 
@@ -222,6 +223,7 @@ Here are some bugs I encountered **during development**;
 
 * Modal:
   * Placed the **Modal** container outside of the **Main** tag to allow the modal overlay to work correctly.
+  * Created a second modal to display thank you messages after form submissions, but received unexpected behaviour with quick modal closures. Multiple modal calls appear to cause this issue. I decided to use an **Alert** instead. 
 
 * Contact Me - *background image*:
   * Changed the image opacity in Canva and re-uploaded file, then changed the colours for **Contact** & **Social** list items to algin with the project colour scheme - Lava **#C92222**, Gunmetal **#343A40** and Cultured **#F8F9FA**.
