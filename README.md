@@ -279,8 +279,9 @@ Cloning FiveStar Techniques from GitHub:
 
 **Special Thanks**
   * My mentor [Simen Daehlin](https://github.com/Eventyret) for his continued support and advice, very much appreciated
-  * Fellow students [byIlsa](https://github.com/byIlsa) & [Geomint](https://github.com/Geomint) for thier helpful README files
-  * **Student Support** for their amazing help and understanding 
+  * [Dick Vlaanderen](https://github.com/dickvla) Thank you for your assistance wealth of knowledge in Simen' absence.
+  * Fellow students [byIlsa](https://github.com/byIlsa) & [Geomint](https://github.com/Geomint) for their helpful README files
+  * **Student Support** for their amazing support and understanding over the last few weeks.
   * **Stuart Anthony** - *fictious name, but he knows who he is*
 
 #### THIS SITE IS FOR EDUCATIONAL PURPOSES ONLY!
