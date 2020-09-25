@@ -1,8 +1,8 @@
 // --------------------------------------------- Navbar Close Function
 
 /**
-* Code gotten from fellow student
-* byllsa
+* Code sourced from fellow student
+* byIlsa and mentor Simen Daehlin
 */
 
 $('.navbar-nav>li>a').on('click', function () {
@@ -83,5 +83,21 @@ function showSlides() {
   slides[slideIndex-1].style.display = "block";
   setTimeout(showSlides, 8000); // Change image every 8 seconds
 }  
+
+// --------------------------------------------- End-of-function
+
+// --------------------------------------------- Form Alert Function
+
+// Set Button Variable(s)
+var contact_btn = document.getElementById("contactSub");
+var modal_btn = document.getElementById("bookSub");
+
+function formReply() {
+    alert("Thank you for testing this form and its functions. As you may have guessed, the SUBMIT button works as expected, however form attributes Action and Method have not been configured for this project. This feature will be developed in the future.");
+}
+
+// Button Event Handler
+contact_btn.onclick = formReply;
+modal_btn.onclick = formReply;
 
 // --------------------------------------------- End-of-function

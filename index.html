@@ -258,7 +258,7 @@
                 <div class="row">
                     <div class="col-sm-7">
                         <h3 class="section__subheading">Enquire Now</h3>
-                        <form id="contact-form" action="#" method="POST">
+                        <form id="contact-form" action="/" method="">
                             <div class="form-row contact-form__row">
                                 <div class="form-group col-sm-6 contact-form__group">
                                     <label class="form-label contact-form__label" for="inputName">Name:</label>
@@ -293,7 +293,7 @@
                                 </div>
                             </div>
                             <button class="btn btn-light btn-cta mr-2" type="reset">Reset</button>        
-                            <button class="btn btn-primary btn-cta" type="submit" id="contactSub">Submit Form</button>
+                            <button class="btn btn-primary btn-cta" type="submit" id="contactSub" data-toggle="modal" data-target="#formSub">Submit Form</button>
                         </form> 
                     </div>
                     <div class="col-sm-5">
@@ -367,7 +367,7 @@
                         </button>
                     </div>
                     <div class="booking-modal__body modal-body">
-                        <form id="booking-form" action="#" method="POST">
+                        <form id="booking-form" action="/" method="">
                             <div class="form-row">                            
                                 <div class="form-group col-5 booking-form__group--service">
                                     <label class="form-label booking-form__label--service" for="bookingService">Selected Service:</label>
@@ -465,7 +465,7 @@
                                 </div>
                             </div>                        
                             <button class="btn btn-light btn-modal mr-2" type="reset">Reset</button>
-                            <button class="btn btn-primary btn-modal" type="submit" id="modalSub">Submit Booking Request</button>
+                            <button class="btn btn-primary btn-modal" type="submit" id="bookingSub">Submit Booking Request</button>
                             <button class="btn btn-danger btn-modal float-right" type="button" data-dismiss="modal">Close</button>
                         </form>                        
                     </div>
