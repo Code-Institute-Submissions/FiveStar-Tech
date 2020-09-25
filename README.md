@@ -217,6 +217,7 @@ Here are some bugs I encountered **during development**;
 
 * Parallax:
   * Set the Parallax container *position* to **Fixed !important** and *Z-Index* to **1**. *this also helped to resolve the fixed navigation issue above*
+  * Background images 2 & 3 (located within the main tag) do not appear as intended. This result surfaced in Lambdatest before free trial timed out.
 
 * Slideshow JS:
   * The **Fade** class for the **Slideshow** conflicted with the same class applied to the **Modal**. Resolved by moving the **Slideshow function** to the end of the **functions.js** script.
