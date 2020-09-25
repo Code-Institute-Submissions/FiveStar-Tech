@@ -273,6 +273,8 @@ h6 {
 }
 
 .section__container {
+    width: 90%;
+    margin: 0 auto;
     padding: 30px 15px;
 }
 
@@ -380,12 +382,10 @@ h6 {
 }
 
 .service-card__title {
-    color: #343a40;
     font-size: 1.4rem;
 }
 
 .service-card__subtitle {
-    color:#035d18;
     font-size: 0.8em;
 }
 
@@ -710,9 +710,9 @@ h6 {
     }
 }
 
-/* Tablet Devices (upto 767px and down) */
-@media (max-width: 767px) {
-    .mq_spacing {
-        margin-left: 1rem;
+/* Devices (575px and down) */
+@media (max-width: 575px) {
+    .section__container {
+        width: 80%;
     }
 }
